@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "تصاريح أمنية", "تصاريح أمنية.csproj", "{634C0E80-4D20-46C7-8FE2-A0A7EE1412FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{634C0E80-4D20-46C7-8FE2-A0A7EE1412FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634C0E80-4D20-46C7-8FE2-A0A7EE1412FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634C0E80-4D20-46C7-8FE2-A0A7EE1412FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634C0E80-4D20-46C7-8FE2-A0A7EE1412FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76BF2627-E7B7-4B76-A845-18146574BEE1}
+	EndGlobalSection
+EndGlobal
